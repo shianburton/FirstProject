@@ -1,3 +1,3 @@
 # FirstProject
 
-The stat of my first project 
+The start of my first project where I will create a website 
